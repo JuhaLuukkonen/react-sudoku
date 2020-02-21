@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "A sudoku web game packed with user-friendly features. It is built with React + Next.js",
   "main": "index.js",
+   "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-redux": "^7.1.3",
+    "react-scripts": "3.1.1",
+  },
   "scripts": {
     "dev": "next",
     "build": "next build",
